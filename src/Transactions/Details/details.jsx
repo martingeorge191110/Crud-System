@@ -1,4 +1,4 @@
-import React,{useState,useLayoutEffect,useRef, useEffect} from "react";
+import React,{useState,useLayoutEffect} from "react";
 
 export default function DetailsRecap (props) {
 
